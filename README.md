@@ -26,7 +26,7 @@ Les références détaillées sont indiquées dans le document.
 
 ## Utilisation de l'intelligence artificielle
 
-Des outils d'intelligence artificielle générative ont été utilisés au cours du travail, notamment pour certaines étapes de recherche, de structuration et de relecture.
+Des outils d'intelligence artificielle générative ont été utilisés au cours du travail, notamment pour certaines étapes de structuration et de relecture.
 
 Les informations et données utilisées ont été confrontées aux sources citées dans le document.
 
